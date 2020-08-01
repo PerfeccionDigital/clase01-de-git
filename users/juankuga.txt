@@ -1,0 +1,5 @@
+Nombre: Juan Kuga
+Perfil: Full Stack
+Correo: juankp3@gmail.com
+SO: Mac
+LP: PHP, js, swift, RecatJS, 
