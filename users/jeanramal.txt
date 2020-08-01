@@ -1,0 +1,6 @@
+Nombre: Jean Ramal
+Perfil: Full Stack
+Correo: jean.ramal@gmail.com
+SO: Win
+LP: Java
+
