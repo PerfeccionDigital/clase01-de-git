@@ -1,0 +1,6 @@
+Nombre: zolanch
+Perfil: Full Stack
+Correo: zolanch.tavara@gmail.com
+SO: Mac
+LP: PHP, js, swift, RecatJS,
+
