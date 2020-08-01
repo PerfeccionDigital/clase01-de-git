@@ -1,0 +1,5 @@
+Nombre: Jeyser Suxe
+Perfil: Backend , Mobile Android
+Correo: Jeyser.suxe@gmail.com
+SO: Windows
+LP: Java,PLSQL 
