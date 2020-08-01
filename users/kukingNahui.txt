@@ -1,0 +1,6 @@
+
+Nombre: Kuking Ñahui Panllo
+Perfil: Desarrollador Web
+Correo: kukinnp@gmail.com
+SO: Windows
+LP: PHP, JS, Java, .NET

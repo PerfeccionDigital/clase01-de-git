@@ -1,0 +1,5 @@
+Nombre: Luis Muñoz
+Perfil: Analista Desarrollador
+Correo: luiscarlosx@hotmail.com
+SO: Windows
+LP: .Net, js, angular 
