@@ -1,1 +1,5 @@
-https://github.com/PerfeccionDigital/clase01-de-git.git
+Nombre: Rafael Pineda
+Perfil: Full Stack
+Correo: pineda.re@gmail.com
+SO: Windows, Linux, Mac
+LP: PHP, Nodejs, C#, JS, ReactJS, Vue, Angular, Swift, Android (Java y Kotlin)
