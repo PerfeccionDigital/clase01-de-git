@@ -1,4 +1,9 @@
 
+# Sesión 01 - Introducción a Git y GitHub
+
+* [PDF](introduccion-a-git.pdf)
+* [Video en Youtube](https://www.youtube.com/watch?v=nI8xMD5Ne_E&feature=youtu.be)
+
 ## Comandos útiles para la terminal
 
 Lista el contenido de un directorio
