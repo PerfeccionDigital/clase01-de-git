@@ -1,7 +1,7 @@
 Cambio de dato de contraseña
 contrasñea 1
 MR
-Holaaa
+Holaaa "Buenos días Clase de Git"
 Adios cambios
 un cambio más
 contraseña 1
@@ -10,3 +10,4 @@ una nueva linea de contenido
 
 commit develop 1
 commit develop 2
+commit knahui a master
