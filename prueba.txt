@@ -1,6 +1,6 @@
 Cambio de dato de contraseña
 contrasñea 1
-MR
+MR MASTER
 Holaaa "Buenos días Clase de Git"
 Adios cambios
 un cambio más
